@@ -17,7 +17,7 @@ Route::get('/', function () {
     // return view('welcome');
     return view('index');
 
-});
+})->name('login');
 Route::get('marcador', function(){
     return view('controlAccess');
 });
