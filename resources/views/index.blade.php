@@ -17,13 +17,13 @@
         <div class="container">
             <div class="card login-card">
                 <div class="row no-gutters">
-                    <div class="col-md-5">
+                    <div class="col-md-6">
                         <img src="assets/images/login.jpg" alt="login" class="login-card-img">
                     </div>
-                    <div class="col-md-7">
+                    <div class="col-md-6">
                         <div class="card-body">
                             <div class="brand-wrapper">
-                                <img src="assets/images/logo.svg" alt="logo" class="logo">
+                                <img src="assets/images/logo.svg" alt="logo" class="logo d-none d-sm-block d-md-none">
                             </div>
                             <p class="login-card-description">Ingrese su cuenta</p>
                             <form action="#!">

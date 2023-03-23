@@ -21,3 +21,6 @@ Route::get('/', function () {
 Route::get('marcador', function(){
     return view('controlAccess');
 });
+Route::get('datosPersonales', function(){
+    return view('datosPersonales');
+});
